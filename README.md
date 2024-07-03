@@ -1,2 +1,2 @@
-# Endless-RPG
+# Endless RPG
 Endless RPG
